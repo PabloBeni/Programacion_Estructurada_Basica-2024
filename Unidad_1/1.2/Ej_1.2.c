@@ -31,6 +31,8 @@ int main()
     IngresarPedidos(codigos, pedidos, CANTIDAD_PRODUCTOS);
 
     Mostrar(codigos, pedidos, CANTIDAD_PRODUCTOS);
+
+    return 0;
 }
 
 void IngresarCodigo(int c[], int m){
