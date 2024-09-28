@@ -1,3 +1,7 @@
+/*
+Dado un conjunto de 10 números enteros ordenados de menor a mayor, ingresar por teclado 3 números más
+no ordenados. Insertarlos donde correspondan. Mostrar en pantalla la serie inicial y la final. 
+*/
 #include <stdio.h>
 #define NUMEROSEXTRA 3
 #define NUMEROS 10
